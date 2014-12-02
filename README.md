@@ -2,7 +2,7 @@
 
 Validate date string.
 
-# Valid formats:
+## Valid formats
 
 `DD/MM/YYYY`, `DD-MM-YYYY`, `DD.MM.YYYY`
 
